@@ -54,6 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/sfo/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
     vendor/smartisan/sfo/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
     vendor/smartisan/sfo/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
+    vendor/smartisan/sfo/proprietary/vendor/lib/hw/keystore.msm8974.so:system/vendor/lib/hw/keystore.msm8974.so \
     vendor/smartisan/sfo/proprietary/lib/libarcsoft_asd.so:system/lib/libarcsoft_asd.so \
     vendor/smartisan/sfo/proprietary/lib/libarcsoft_night_shot.so:system/lib/libarcsoft_night_shot.so \
     vendor/smartisan/sfo/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
