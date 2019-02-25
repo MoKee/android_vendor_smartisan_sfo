@@ -61,6 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/sfo/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/smartisan/sfo/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/smartisan/sfo/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
+    vendor/smartisan/sfo/proprietary/etc/thermal-engine-8974.conf:system/etc/thermal-engine-8974.conf \
     vendor/smartisan/sfo/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/smartisan/sfo/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/smartisan/sfo/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
